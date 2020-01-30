@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5e2c0fcff379a10007855dd4"},"purchased":[],"uid":"Md86OuCCNGZHd2wHSy8KZ7HSk393","__v":0}
+{"_id":{"$oid":"5e2c2f7790343b00082eeada"},"purchased":[{"$oid":"5ddd126041ec15729d9e820f"},{"$oid":"5e3039485b98600008b1109e"}],"uid":"7do5Ryg9A1goKRvkImyz9MHFJwt1","__v":0}
+{"_id":{"$oid":"5e3088a817ff990008c627fe"},"purchased":[{"$oid":"5e20886a78dbfa00085c0e07"},{"$oid":"5e283262b83031000703f33b"},{"$oid":"5e31a1c9bcc1d000084d89d9"}],"uid":"s2Yf0MFWRaTI97CFvTsPGpqqu4v1","__v":0}
+{"_id":{"$oid":"5e30a9f51cd2150008c909a1"},"purchased":[],"uid":"NrchrJRZVjREfImp2gB59M02uTs2","__v":0}
+{"_id":{"$oid":"5e31f5c35dd5970007915ef6"},"purchased":[{"$oid":"5e230737c655de3f08ba1b44"}],"uid":"i4LG9okNFlNUGmJztWuiTr2PNTR2","__v":0}
